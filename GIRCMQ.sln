@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account.API", "Account.API\Account.API.csproj", "{1C81D8AB-0149-4E38-B077-F2766A992BF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GIRCMQ.Specs", "GIRCMQ.Specs\GIRCMQ.Specs.csproj", "{AFF559EC-3F72-4002-B43E-2F4AFFA500CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C81D8AB-0149-4E38-B077-F2766A992BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C81D8AB-0149-4E38-B077-F2766A992BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C81D8AB-0149-4E38-B077-F2766A992BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C81D8AB-0149-4E38-B077-F2766A992BF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFF559EC-3F72-4002-B43E-2F4AFFA500CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF559EC-3F72-4002-B43E-2F4AFFA500CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF559EC-3F72-4002-B43E-2F4AFFA500CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF559EC-3F72-4002-B43E-2F4AFFA500CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
